@@ -45,7 +45,7 @@
 Рисунок 4 – Окно конфигурации тестирования<br /><br />
 
 
-<img width="427" alt="image" src="https://user-images.githubusercontent.com/33948411/121098317-efb0d780-c838-11eb-90f6-c3ef491c0392.png">
+<img width="1068" alt="Конфигурирование результатов" src="https://user-images.githubusercontent.com/33948411/121195642-1f9cc100-c8b3-11eb-9636-5ed59e1920c0.png">
 Рисунок 5 – Окно конфигурирования показателей для сохранения<br /><br />
 
 
